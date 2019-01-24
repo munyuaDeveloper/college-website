@@ -1,0 +1,53 @@
+.main_wrapper{
+	width: 100%;
+	height: auto;
+
+}
+.content_wrapper{
+	margin: auto;
+	width: 99%;
+	height: auto;
+
+}
+
+#content_area{
+
+  float: right;
+	width:75%;
+  height: auto;
+
+}
+/*#box{
+  height:450px;
+  width: 100%;
+}
+*/
+#sidebar{
+  float: left;
+  width: 25%;
+  height:auto;
+  font-size: 16px;
+  text-align: left;
+  
+}
+#dept{
+background-color:#06f7f4;
+color: white;
+width: 100%;
+height: 50px;
+
+}
+#dept  a:hover{
+background-color: #ee77f5;
+
+}
+#dept_box{
+  border: 2px solid black;
+}
+/*#footer{
+  margin:0;
+	width: 90%;
+	height: 45px;
+	background-color: gray;
+	color: white;
+}
